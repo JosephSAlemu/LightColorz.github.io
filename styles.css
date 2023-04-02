@@ -1,0 +1,19 @@
+.container {
+    height: 100vh;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* this is how you cntr a div*/
+}
+
+.poop {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+
+#btn {
+    pointer-events: all;
+}
